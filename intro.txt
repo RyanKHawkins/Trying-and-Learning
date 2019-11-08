@@ -1,0 +1,1 @@
+I'm using this repository to learn and explore git and github. Hopefully, I can turn this into an incredible resource for myself and other beginners.
