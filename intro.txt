@@ -3,3 +3,4 @@ I'm using this repository to learn and explore git and github. Hopefully, I can 
 This is a new entry.
 
 This is another entry.
+I am hopeful I'll master this.
